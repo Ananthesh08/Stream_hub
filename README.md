@@ -1,1 +1,1 @@
-The project is now live! You can access the deployed version [here](https://stream-qwo2dppz0-ananthesh08s-projects.vercel.app/).
+The project is now live! You can access the deployed version [here](https://stream-hub-sandy.vercel.app/).
